@@ -21,6 +21,7 @@ k)adsftg2:{[a;dpt;xom;f;tw;g] d::*dpt;x::*xom
 k)foo2:{[t;tf;tt;tg;x]adsftg2[0;(dst;"D"$-8#$x;t);(S x;0;0);tf;tt;tg]}
 
 / 2.2
+/ hmmm super interesting
 nh2:`Time`Exchange`Symbol`Bid_Price`Bid_Size`Offer_Price`Offer_Size`Quote_Condition`Sequence_Number`National_BBO_Ind`FINRA_BBO_Indicator`FINRA_ADF_MPID_Indicator`Quote_Cancel_Correction`Source_Of_Quote`NBBO_Quote_Condition`Best_Bid_Exchange`Best_Bid_Price`Best_Bid_Size`Best_Bid_FINRA_Market_Maker_ID`Best_Offer_Exchange`Best_Offer_Price`Best_Offer_Size`Best_Offer_FINRA_Market_Maker_ID`LULD_Indicator`LULD_NBBO_Indicator`SIP_Generated_Message_Identifier`Participant_Timestamp`FINRA_ADF_Timestamp;
 nf2:("NC*EHEHCIHHHCCCCEH*CFH*CCCNN";enlist"|"); ng2:{x};
 / 3.0
