@@ -15,7 +15,7 @@
 / http://www.nyxdata.com/nysedata/InformationProducts/tabid/73/Default.aspx
 /2011.10.17 uot(100i and 0 ..1000i for q2 and q3 compatibility)
 /2011.08.10 split at whole symbol when using -par
-/2011.08.07 >2 billion rows
+/2011.08.07 >2 billion rows (2 billion is a lot)
 /2010.08.19 detect new ftp filenames
 /2007.05.02 ftp trade cond is first non"@" char
 /(FTPday: taq*) (DVDmonth: *.tab *.idx *.bin) 1GB/min
